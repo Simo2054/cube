@@ -1,2 +1,2 @@
 # cube
-Pointer based cube
+## Pointer based cube
